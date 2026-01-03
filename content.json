@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "text" : "He who feeds you, control you.",
+        "author" : "Thomas Sankara"
+    },
+    {
+        "id" : 2,
+        "text" : "While revolutionaries as individuals can be murdered, you cannot kill the ideas.",
+        "author" :"Thomas Sankara"
+    },
+    {
+        "id" : 3,
+        "text" : "We must unite now or perish.",
+        "author" :"Kwame Nkrumah"
+    },
+    {
+        "id" : 4,
+        "text" : "We face neither East nor West; we face forward.",
+        "author" : "Thomas Sankara"
+    },
+    {
+        "id" : 5,
+        "text" : "History lives in the minds and bodies of people.",
+        "author" : "Dr. Amos N. Wilson"
+    },
+    {
+        "id" : 6,
+        "text" : "It can be done. Play your part.",
+        "author" : "Julius Nyrere"
+    },
+    {
+        "id" : 7,
+        "text" : "Africa for the African, those at home and those abroad.",
+        "author" : "Marcus Mosiah Garvey"
+    }
+]
